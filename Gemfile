@@ -12,6 +12,7 @@ gem 'bootstrap-sass'
 gem "paperclip", "~> 4.1"
 gem "paperclip-dropbox", ">= 1.1.7"
 gem "figaro"
+gem 'devise'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
